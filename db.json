@@ -1,15 +1,17 @@
-{
-  "id": 1,
-  "title": "hello",
-  "active": true
-},
-{
-  "id": 2,
-  "title": "world",
-  "active": true
-},
-{
-  "id": 3,
-  "title": "jupiter",
-  "active": false
-}
+[
+  {
+    "id": 1,
+    "title": "hello",
+    "active": true
+  },
+  {
+    "id": 2,
+    "title": "world",
+    "active": true
+  },
+  {
+    "id": 3,
+    "title": "jupiter",
+    "active": false
+  }
+]
