@@ -1,0 +1,26 @@
+[
+  {
+    id: 1,
+    full_name: "Glen Danzig",
+    order_number: "674K9P",
+    status: "Shipped"
+  },
+  {
+    id: 2,
+    full_name: "Ru Paul",
+    order_number: "JD782E",
+    status: "Pending"
+  },
+  {
+    id: 3,
+    full_name: "Buckethead",
+    order_number: "F93DV8",
+    status: "Shipped"
+  },
+  {
+    id: 4,
+    full_name: "SpongeBob SquarePants",
+    order_number: "IE682X",
+    status: "On Hold"
+  }
+]
